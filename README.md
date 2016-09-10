@@ -1,6 +1,11 @@
 # The Pledge
 An iOS 10 / Swift 3 App that contains an animated login screen.
 
+![](art/screenshot/pledge00.gif?raw=true)
+
+## Contributing
+See [CONTRIBUTING](CONTRIBUTING.md).
+
 ## Licensing
 Pledge is licensed under [the MIT License](LICENSE).
 
